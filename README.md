@@ -1,4 +1,4 @@
-### ratunsliobn
+### - **Discord**: [ratunsliobn](https://discord.com/users/ratunsliobn)
 
 <!--
 **rliobn/rliobn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
